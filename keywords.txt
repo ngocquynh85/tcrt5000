@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For TCRT5000 IR sensor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+tcrt5000	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+tcrt5000	KEYWORD2
+begin		KEYWORD2
+end			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+FAR			LITERAL1
+NEAR		LITERAL1
+INCOMMING	LITERAL1
+OUTCOMING	LITERAL1
+POSITIVE	LITERAL1
+ANODE		LITERAL1
+CATHODE		LITERAL1
